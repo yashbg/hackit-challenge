@@ -41,8 +41,8 @@ Reasoning - %%% Type your approach here %%%
 %%% Replace this with the 3rd challenge answer %%%
 ```
 
-- Name :
-- Roll :
+- Name : Yash Gupta
+- Roll : 190997
 
 ## Do not tamper below this line
 
