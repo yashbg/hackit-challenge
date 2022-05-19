@@ -25,10 +25,10 @@ Reasoning - %%% Type your approach here %%%
 
 ## Your second approach below
 
-Reasoning - %%% Type your approach here %%%
+Reasoning - Inspected the google search button. Found its class to be 'gNO89b'. Ran `python second.py gNO89b` on the terminal to find the answer. 
 
 ```
-%%% Replace this with the 2nd challenge answer %%%
+fMN78alst
 ```
 
 ---
