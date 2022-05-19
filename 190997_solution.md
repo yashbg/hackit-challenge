@@ -4,10 +4,11 @@ Rename this file in the format `yourRollNumber_solution.md` (example, `210000_so
 
 ## Your zeroth approach below
 
-Reasoning - %%% Type your approach here %%%
+Reasoning - Changed the data type of `ved` from int[] to char[]. Then the output of `man` when run on the terminal is the answer. 
 
 ```md
-%%% Replace this with the 0th challenge answer %%%
+What manual page do you want?
+For example, try 'man man'.
 ```
 
 ---
